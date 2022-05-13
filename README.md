@@ -1,4 +1,4 @@
-# 👋 Yo! I’m @Guy-with-glasses-001
+# 👋 Yo! I’m Shreyas Saha
 
 - 👀 I’m interested in **programming** and **designing**
 - 🌱 I’m currently learning **C** and **Java**
